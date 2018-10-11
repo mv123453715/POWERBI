@@ -2,7 +2,7 @@
 ### POWER BI是商業智慧界常用的軟體 並且有很強大的圖像展示功能
 這次我們運用POWERBI 分析了公司人員流動狀況
 
-![Image]: https://github.com/mv123453715/POWERBI/blob/master/powerbi/result.PNG
+![image]: (https://github.com/mv123453715/POWERBI/blob/master/powerbi/result.PNG)
 
 
 我們使用了IBM科學家創造的數據 並且我新增了幾筆數據
