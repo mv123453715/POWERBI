@@ -7,8 +7,8 @@
 我們使用了IBM科學家創造的數據 並且我新增了幾筆數據
 
 Region : 工作國家
-Month : 幾月份離職
-Country: 國家經緯度
+,Month : 幾月份離職
+,Country: 國家經緯度
 
 裡面有POWER BI檔案可以直接開啟
 
